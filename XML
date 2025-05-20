@@ -1,0 +1,7 @@
+<robot>
+    <name>Robot Moly</name>
+    <model>00221</model>
+    <year>2025</year>
+    <size>Small</size>
+    <purpose>Home robot for entertaining</purpose>
+</robot>
